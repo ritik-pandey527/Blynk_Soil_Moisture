@@ -25,9 +25,9 @@ This project is an IoT-based system that uses various sensors to monitor environ
 5. **LED**: Connected to virtual pin `V3` (for rain detection status).
 
 ## Blynk App Setup
-- **Template ID**: `TMPL3TfTQd6M7`
-- **Template Name**: `ESP8266`
-- **Auth Token**: `CrxapjbhPWUVgOj2OBSnGDRQcCG1c4YW`
+- **Template ID**: ``
+- **Template Name**: ``
+- **Auth Token**: ``
 - Create a new project on the Blynk app and add the virtual pins `V0`, `V1`, `V2`, and `V3` for displaying temperature, humidity, moisture, and rain status.
 
 ## Commands and Notifications
