@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3TfTQd6M7"
-#define BLYNK_TEMPLATE_NAME "ESP8266"
-#define BLYNK_AUTH_TOKEN "CrxapjbhPWUVgOj2OBSnGDRQcCG1c4YW"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <DHT.h>
 #include <BlynkSimpleEsp8266.h>
@@ -16,8 +16,8 @@ const int moisturePin = A0;
 DHT dht(DHTPIN, DHTTYPE);
 
 // Your WiFi credentials
-char ssid[] = "Sarah123";
-char pass[] = "Sarah123";
+char ssid[] = "";
+char pass[] = "";
 
 // Variable to track rain detection state
 bool rainDetected = false;
